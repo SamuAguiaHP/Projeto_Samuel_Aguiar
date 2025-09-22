@@ -24,5 +24,9 @@ class D:
     def MD2(self):
         print("Método MD2()")
 
+    def MD4(self): # NOVO MÉTODO VIA GITHUB
+        print("Método MD4()")
+
+
     def MD3(self): # NOVO MÉTODO LOCAL
         print("Método MD3()")
