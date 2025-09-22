@@ -23,3 +23,6 @@ class C:
 
     def MC2(self):
         print("Método MC2()")
+
+    def MC3(self): # NOVO MÉTODO
+        print("Método MC3()")
