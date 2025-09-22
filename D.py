@@ -23,3 +23,6 @@ class D:
 
     def MD2(self):
         print("Método MD2()")
+
+    def MD4(self): # NOVO MÉTODO VIA GITHUB
+        print("Método MD4()")
