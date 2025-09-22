@@ -23,6 +23,3 @@ class D:
 
     def MD2(self):
         print("Método MD2()")
-
-    def MD3(self): # NOVO MÉTODO LOCAL
-        print("Método MD3()")
